@@ -1,4 +1,6 @@
-# NORA_2d<br> <br>
+# NORA_2d
+
+<br> <br>
 
 A 2D platformer Quest  developed in Unity with C#.
 ![Nora1](https://user-images.githubusercontent.com/97168194/150333668-05e8c1c1-028f-49c3-860d-8944aaedcbf9.jpg)
